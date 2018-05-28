@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DE1403</color>  //修改顏色
+    <color name="colorPrimaryDark">#DE1403</color>  //修改顏色
+    <color name="colorAccent">#FF4081</color>
+</resources>
